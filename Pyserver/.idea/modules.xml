@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pyserver.iml" filepath="$PROJECT_DIR$/.idea/Pyserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tsp/.idea/tsp.iml" filepath="$PROJECT_DIR$/../tsp/.idea/tsp.iml" />
+    </modules>
+  </component>
+</project>
